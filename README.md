@@ -59,3 +59,75 @@ Este projeto busca reforçar conceitos teóricos de algoritmos ambiciosos (`Gree
 </p>
 
 ---
+
+### 🎥 Vídeo de Apresentação
+
+Neste vídeo, apresentamos o trabalho desenvolvido, abordando os principais pontos desenvolvidos ao longo do projeto.
+
+[Assista no Youtube]()
+
+---
+
+### ✅ Pré-requisitos
+
+- Sistema operacional: **Windows ou Linux**
+- **Compilador C** (Ex: GCC, MinGW no Windows)
+- Terminal compatível com comandos do sistema
+
+---
+
+## ⚙️ Instalação e Execução
+
+**Linguagem:** C
+**Framework:** Nenhum (Utiliza apenas bibliotecas padrão C)
+
+1.  **Clone o repositório:**
+
+    ```bash
+    https://github.com/projeto-de-algoritmos-2025/Greed_CG_Code.git
+    ```
+
+2.  **Entre na pasta do projeto:**
+
+    ```bash
+    cd Greed_CG_Code
+    ```
+
+3.  **Compile o código (Windows ou Linux):**
+
+    * **No Linux/macOS:**
+        ```bash
+        gcc main.c -o agendador
+        ```
+    * **No Windows (usando MinGW/GCC):**
+        ```bash
+        gcc main.c -o agendador.exe
+        ```
+
+4.  **Execute o programa:**
+
+    * **No Linux/macOS:**
+        ```bash
+        ./agendador
+        ```
+    * **No Windows:**
+        ```bash
+        agendador.exe
+        ```
+
+---
+
+## ▶️ Uso
+
+Após executar o programa, siga as instruções no terminal para definir o período do semestre, cadastrar as atividades com seus nomes, datas de deadline e durações. O programa então processará as informações e exibirá a agenda otimizada com os resultados.
+
+---
+
+## 🧠 Outros
+
+- O projeto foi planejado de forma a demonstrar **visualmente** o comportamento do Algoritmo Ambicioso (**Minimize Maximum Lateness**) na otimização do agendamento de tarefas.
+- Este algoritmo é fundamental para **minimizar o atraso máximo (Minimize Maximum Lateness)** de um conjunto de tarefas, garantindo que a tarefa com o prazo mais próximo seja sempre a primeira a ser executada.
+- Este algoritmo é amplamente utilizado em sistemas de tempo real e gerenciamento de projetos onde o cumprimento de prazos é crítico.
+- O código é implementado em C puro, utilizando apenas bibliotecas padrão, o que o torna leve e eficiente.
+- A clareza da saída no terminal foi priorizada para facilitar a compreensão do agendamento e dos resultados.
+- O código está comentado para explicar cada etapa do processo de agendamento e o cálculo do atraso.

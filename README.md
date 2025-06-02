@@ -41,13 +41,13 @@ Este projeto busca reforçar conceitos teóricos de algoritmos ambiciosos (`Gree
   <img src="/Imagens/03.png" alt="Cadastro da Atividade 1" width="500"/>
 </p>
 
-<p align="center">Figura 5 - Cadastro de Todas Atividades</p>
+<p align="center">Figura 4 - Cadastro de Todas Atividades</p>
 
 <p align="center">
   <img src="/Imagens/04.png" alt="Cadastro da Atividade 3" width="500"/>
 </p>
 
-<p align="center">Figura 6 - Agenda Final e Resultados</p>
+<p align="center">Figura 5 - Agenda Final e Resultados</p>
 
 <p align="center">
   <img src="/Imagens/05.png" alt="Agenda Final e Resultados" width="500"/>

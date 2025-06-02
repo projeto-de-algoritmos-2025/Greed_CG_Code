@@ -54,8 +54,9 @@ Este projeto busca reforçar conceitos teóricos de algoritmos ambiciosos (`Gree
 </p>
 
 <p align="center" style="font-size: 14px;">
-  Autores: <a href="[https://github.com/dudupaz](https://github.com/dudupaz)" target="_blank">Carlos Paz</a>, 
-  <a href="[https://github.com/GenilsonJrs](https://github.com/GenilsonJrs)" target="_blank">Genilson Silva</a>
+  Autores: <a href="https://github.com/dudupaz" target="_blank">Carlos Paz</a>,
+  <a href="https://github.com/GenilsonJrs" target="_blank">Genilson Silva</a>
+
 </p>
 
 ---

@@ -1,7 +1,5 @@
 # 🔍 Projeto de Algoritmos Ambiciosos
 
-**Número da Lista:** X (Preencha com o número da sua lista, se houver)
-
 **Conteúdo da Disciplina:** Greed - Scheduling, Partitioning, Knapsack, Coin Change, BreakPoints, A*
 
 ## 👨‍🏫 Alunos
@@ -65,7 +63,7 @@ Este projeto busca reforçar conceitos teóricos de algoritmos ambiciosos (`Gree
 
 Neste vídeo, apresentamos o trabalho desenvolvido, abordando os principais pontos desenvolvidos ao longo do projeto.
 
-[Assista no Youtube]()
+[Assista no Youtube](https://youtu.be/s9Tv5EvMSuQ?si=tQ7fz_hc5W0sLhTE)
 
 ---
 
